@@ -3,6 +3,5 @@
 	<p>
  <label class="of"></label>LET'S MAKE A PERFECT STYLE<label class="on"></label>
 	</p>
-	<h1>
 </div>
  <br>
