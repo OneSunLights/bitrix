@@ -2,7 +2,7 @@
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 //$APPLICATION->SetTitle("Новости банка");
 ?>
-<!-- banner -->
+<!-- banners -->
 
 <div class="banner">
 <div class="container">	
